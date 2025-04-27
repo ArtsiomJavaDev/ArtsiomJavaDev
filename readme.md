@@ -3,5 +3,10 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArtsiomJavaDev&style=flat-square&color=blue" alt=""/>
-  </div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Belarus.
+</div>
+<h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+### :woman_technologist: About Me :
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> live in Warsaw.
