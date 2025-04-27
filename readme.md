@@ -10,7 +10,7 @@
 </h1>
 :woman_technologist: About Me : <br>
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> live in Warsaw.<br>
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
+:telescope: I am working on Java projects focused on web development, multithreading, and databases, continuously expanding my skills in backend and frontend development.<br>
 :seedling: Exploring Technical Content Writing.<br>
 :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
