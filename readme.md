@@ -14,6 +14,4 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 :seedling: Exploring Technical Content Writing.<br>
 :zap: In my free time, I am learning and read tech articles.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtsiomJavaDev&theme=dark&background=000000)](https://git.io/streak-stats)
 
