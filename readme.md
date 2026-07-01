@@ -69,17 +69,44 @@
 
 ## 🚀 Highlighted Projects
 
-### ⚡ CentralHub — HR & Payroll Automation
-Desktop fullstack app bridging an internal CRM and a Polish payroll system. It ingests data from two sources (REST API + MySQL over SSH), validates it against a custom 2026 tax engine (ZUS/PIT/PPK), and imports it in one click.
-- **Impact:** cut a ~150h/month manual process down to ~10h of verification · ~$30k/year saved
-- **Stack:** `Python` `PyQt6` `MS SQL Server` `MySQL` `AWS RDS` `REST API` · 216 pytest golden-case tests, CI on GitHub Actions
-- 🔒 *Commercial project — source private under NDA*
+⚡ CentralHub — HR & Payroll Automation
 
-### 💱 Crypto Exchange Platform — crypto/FX exchange (web + mobile + backend)
+Desktop fullstack app bridging an internal CRM and a Polish payroll system. It ingests data from two sources (REST API + MySQL over SSH), validates it against a custom 2026 tax engine (ZUS/PIT/PPK), and imports it in one click.
+
+
+Impact: cut a ~150h/month manual process down to ~10h of verification · ~$30k/year saved
+Stack: Python PyQt6 MS SQL Server MySQL AWS RDS REST API · 216 pytest golden-case tests, CI on GitHub Actions
+🔒 Commercial project — source private under NDA
+
+
+🔗 CRM — Accounting & Payroll Platform (Comarch Optima integration)
+
+Team project: a multitenant CRM for an accounting, payroll & legalization business serving ~950 clients across 15 account managers. I own the secure integration layer and API.
+
+
+What I built: a hardened read-only Data API (16+ entities) with defense-in-depth security (IP-whitelist → Bearer token → rate limiting) and transparent PII decryption; currently building a Comarch Optima ERP integration that automates invoice transfer and triggers automatic bank payments.
+Stack: PHP Laravel 10 REST API Eloquent MySQL AWS S3 · code review + Jira
+🔒 Commercial project — source private under NDA
+
+
+📚 Education Content Platform — catalog with AI moderation
+
+Fullstack platform with a public searchable catalog and gated, secure downloads, plus an AI pipeline that auto-moderates imported PDFs before publication.
+
+
+Highlights: cost-aware AI classification (heuristics → LLM with JSON mode), one-time SHA-256 download tokens + MySQL job queue, three-tier RBAC, Partner-API sync, full CI/CD (PHPUnit + E2E, PHPStan level 6)
+Stack: PHP 8.2 React 19 TypeScript MySQL Vite Tailwind CSS OpenAI API
+🔒 Commercial project — source private under NDA
+
+
+💱 Crypto Exchange Platform — crypto/FX exchange (web + mobile + backend)
+
 End-to-end pet project: a Spring Boot REST backend (JWT, RBAC, 7-stage order lifecycle), a React/TypeScript web client and an Expo mobile app, wired to 4 external APIs with graceful fallback.
-- **Highlights:** real-time rates & charts, offline-capable mobile app (i18n EN/PL/RU), unified Redux Toolkit state, Docker Compose
-- **Stack:** `Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `React Native (Expo)` `Docker`
-- 🔗 [Repository](https://github.com/ArtsiomDziainekaDev/cryptoexchange) 
+
+
+Highlights: real-time rates & charts, offline-capable mobile app (i18n EN/PL/RU), unified Redux Toolkit state, Docker Compose
+Stack: Java 21 Spring Boot PostgreSQL React TypeScript React Native (Expo) Docker
+🔗 Repository https://github.com/ArtsiomDziainekaDev/cryptoexchange
 
 ---
 
