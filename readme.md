@@ -83,25 +83,10 @@ End-to-end pet project: a Spring Boot REST backend (JWT, RBAC, 7-stage order lif
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Artsiom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtsiomDziainekaDev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ArtsiomDziainekaDev&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtsiomDziainekaDev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ArtsiomDziainekaDev&theme=tokyonight&no-frame=true&column=7&margin-w=8)
-
-</div>
-
----
 
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artsiom-dziaineka-2b811829a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bden5353@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artsiomdev)
-\
+
